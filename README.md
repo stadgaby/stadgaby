@@ -1,6 +1,6 @@
 # 💫About Me :
 # ¡HOLA!, soy Gabriela Garcia.
-Estudiante de estadística; me apasiona la investigación y explorar sobre los enigmas que nos rodean.
+Soy una estudiante de estadística apasionada por la investigación y el descubrimiento de patrones y tendencias en diversos campos.
 
 # 💻Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
